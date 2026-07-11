@@ -149,25 +149,25 @@ The project uses multiple weather datasets including:
 
 ## Weather Analysis
 
-![Weather Dashboard](Images/weather_analysis.png)
+![Weather Dashboard](https://github.com/Sudhirgond1201/PowerBI-Weather-Analytics-Dashboard/blob/main/Dashboard_Images/Weather_Overview.png)
 
 ---
 
 ## Temperature Analysis
 
-![Temperature Dashboard](Images/temperature_dashboard.png)
+![Temperature Dashboard](https://github.com/Sudhirgond1201/PowerBI-Weather-Analytics-Dashboard/blob/main/Dashboard_Images/Temprature.png)
 
 ---
 
 ## Humidity & Pressure Analysis
 
-![Humidity Dashboard]("E:\project img\Humidity & Pressure.png")
+![Humidity Dashboard](https://github.com/Sudhirgond1201/PowerBI-Weather-Analytics-Dashboard/blob/main/Dashboard_Images/Humidity%20%26%20Pressure.png)
 
 ---
 
 ## Wind Analysis
 
-![Wind Dashboard](Images/wind_analysis.png)
+![Wind Dashboard](https://github.com/Sudhirgond1201/PowerBI-Weather-Analytics-Dashboard/blob/main/Dashboard_Images/Wind%20.png)
 
 
 
